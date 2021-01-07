@@ -2,26 +2,6 @@
   text-align: center;
 }
 
-.header {
-  grid-area: header;
-  text-align: center;
-  background-color: green;
-}
-
-.header img {
-  height: 60px;
-}
-
-.content {
-  background-color: greenyellow;
-  grid-area: content;
-}
-
-.sidebar {
-  background-color: red;
-  grid-area: sidebar;
-}
-
 .app-wrapper {
   min-height: 100vh;
   display: grid;

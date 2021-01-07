@@ -1,0 +1,13 @@
+.content {
+  display: grid;
+  grid-template-rows: 200px 50px 1fr;
+  grid-gap: 10px;
+
+  grid-template-areas:
+    "info"
+    "userpost"
+    "posts";
+
+  background-color: greenyellow;
+  grid-area: content;
+}

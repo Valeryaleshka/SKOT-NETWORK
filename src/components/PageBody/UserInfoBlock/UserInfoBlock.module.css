@@ -1,0 +1,9 @@
+.content {
+  background-color: rgb(156, 156, 238);
+  grid-area: info;
+  align-items: center;
+}
+
+.content img {
+  height: 150px;
+}

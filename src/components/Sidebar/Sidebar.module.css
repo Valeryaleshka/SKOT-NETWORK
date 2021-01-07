@@ -1,0 +1,8 @@
+.item {
+  color: ivory;
+}
+
+.sidebar {
+  background-color: rgb(45, 77, 55);
+  grid-area: sidebar;
+}
